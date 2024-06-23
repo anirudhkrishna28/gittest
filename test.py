@@ -7,9 +7,6 @@ print(add(1,2))
 def hello():
     print("hello world")
 
-
-
-
 def subtract(a,b):
     return a-b
 
